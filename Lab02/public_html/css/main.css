@@ -1,0 +1,26 @@
+section h2 {
+    text-decoration: underline;
+}
+
+figure {
+    display: inline-block;
+}
+
+figure img {
+    border-style: double;
+    color: black;
+}
+
+figcaption {
+    color: gray;
+    font-style: italic;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    border-top: 1px solid black;
+    padding-top: 1%;
+    font-style: italic;
+    font-size: 90%;
+}
